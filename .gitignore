@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter (if you add notebooks later)
+.ipynb_checkpoints/
+
+# Data & results (generated)
+data/**/*.csv
+results/**/*.csv
+AAPL_test_data.csv
+
+# Logs & temp
+*.log
+*.tmp
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# VSCode
+.vscode/
